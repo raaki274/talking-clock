@@ -1,3 +1,5 @@
+# Radhakrishnan Balakrishnan
+
 # talking-clock documentation
 This is a Java program will return a human friendly text either for given input time or for the current time, refer the below for example,
 
