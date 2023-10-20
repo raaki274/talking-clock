@@ -1,3 +1,5 @@
+# Radhakrishnan Balakrishnan
+
 # talking-clock documentation
 This is a REST based API will return a human friendly text either for given input time or for the current time, refer the below for example,
 
@@ -19,8 +21,9 @@ Numeric Time     Human Friendly Text\
 ## Compiling and running the API
 * Clone the repo/download the code from repo
 * Chage the current working directory to root folder of the repo where pom.xml exist
-* Run the script `install` from Mac/Linux/Unix machine and run `install.cmd` from Windows machine
+* Run the script `./install` from Mac/Linux/Unix machine and run `install.cmd` from Windows machine
 * After successful compilation and packaging, the API will be up and running on port number `8080` 
+* If install scripts doesn't work try running the command `mvn spring-boot:run` from the project root folder
 
 ## URIs & Usage Scenarios
 ### URL can either be `http://localhost:8080` or the respective URL if the API is hosted
