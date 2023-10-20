@@ -10,7 +10,7 @@ Numeric Time     Human Friendly Text\
 13:25            Twenty five past one\
 13:30            Half past one\
 13:35            Twenty five to two\
-13:55            Five to two\
+13:55            Five to two
 
 ## Pre-requisities for compiling and running teh API
 * Java 17 installed
