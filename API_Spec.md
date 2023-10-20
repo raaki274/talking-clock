@@ -1,5 +1,3 @@
-# Radhakrishnan Balakrishnan
-
 # talking-clock documentation
 This is a REST based API will return a human friendly text either for given input time or for the current time, refer the below for example,
 
@@ -14,7 +12,7 @@ Numeric Time     Human Friendly Text\
 13:35            Twenty five to two\
 13:55            Five to two
 
-## Pre-requisities for compiling and running teh API
+## Pre-requisities for compiling and running the API
 * Java 17 installed
 * Maven installed with the access configured for repo to download required dependencies
 
