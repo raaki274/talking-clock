@@ -1,4 +1,4 @@
-# talking-clock documentation
+# talking-clock REST API documentation
 This is a REST based API will return a human friendly text either for given input time or for the current time, refer the below for example,
 
 Numeric Time     Human Friendly Text\
