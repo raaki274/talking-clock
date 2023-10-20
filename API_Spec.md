@@ -23,7 +23,7 @@ Numeric Time     Human Friendly Text\
 * Chage the current working directory to root folder of the repo where pom.xml exist
 * Run the script `./install` from Mac/Linux/Unix machine and run `install.cmd` from Windows machine
 * After successful compilation and packaging, the API will be up and running on port number `8080` 
-* If install scripts doesn't work try running the command `mvn spring-boot:run` from the project root folder
+* If install scripts doesn't work, try running the command `mvn spring-boot:run` from the project root folder
 
 ## URIs & Usage Scenarios
 ### URL can either be `http://localhost:8080` or the respective URL if the API is hosted
